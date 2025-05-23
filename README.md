@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sreelekha24241
+- 👋 Hi, I’m @sreelekha
 - 👀 I’m interested in datascience and Machine learning Models
 - 🌱 I’m currently pursing MCA
 - 💞️ I’m looking to collaborate on datascience and machine learning projects
