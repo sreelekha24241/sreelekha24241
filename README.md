@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreelekha
 - 👀 I’m interested in datascience and Machine learning Models
-- 🌱 I’m currently pursing MCA
+- 🌱 I’m recently postgraduated in MCA
 - 💞️ I’m looking to collaborate on datascience and machine learning projects
 - 📫 How to reach me sangamsreelekha@gmail.com
   
